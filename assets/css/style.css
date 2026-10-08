@@ -36,3 +36,16 @@ body {
     text-decoration: none;
     color: white;
 }
+.main {
+    padding: 60px 20px;
+}
+
+.main h2 {
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+.main p {
+    font-size: 18px;
+    line-height: 1.6;
+}
